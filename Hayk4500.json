@@ -733,33 +733,33 @@
     },
     "Cases": {
       "GKeychain": {
-        "Height": 4,
-        "Width": 4,
+        "Height": 10,
+        "Width": 10,
         "Filter": false
       },
       "KeycardHolderCase": {
-        "Height": 5,
-        "Width": 5,
+        "Height": 10,
+        "Width": 10,
         "Filter": false
       },
       "InjectorCase": {
-        "Height": 5,
-        "Width": 5,
+        "Height": 10,
+        "Width": 10,
         "Filter": false
       },
       "Holodilnick": {
         "Height": 15,
-        "Width": 15,
+        "Width": 20,
         "Filter": false
       },
       "PistolCase": {
-        "Height": 8,
-        "Width": 8,
+        "Height": 10,
+        "Width": 10,
         "Filter": false
       },
       "DocumentsCase": {
-        "Height": 5,
-        "Width": 5,
+        "Height": 10,
+        "Width": 10,
         "Filter": false
       },
       "Keytool": {
@@ -768,8 +768,8 @@
         "Filter": false
       },
       "SiccCase": {
-        "Height": 10,
-        "Width": 10,
+        "Height": 15,
+        "Width": 15,
         "Filter": false
       },
       "ThiccWeaponCase": {
@@ -783,8 +783,8 @@
         "Filter": false
       },
       "MedicineCase": {
-        "Height": 12,
-        "Width": 12,
+        "Height": 15,
+        "Width": 15,
         "Filter": false
       },
       "DogtagCase": {
@@ -794,12 +794,12 @@
       },
       "MagazineCase": {
         "Height": 15,
-        "Width": 15,
+        "Width": 20,
         "Filter": false
       },
       "AmmunitionCase": {
-        "Height": 10,
-        "Width": 10,
+        "Height": 15,
+        "Width": 15,
         "Filter": false
       },
       "WeaponCase": {
@@ -814,12 +814,12 @@
       },
       "GrenadeCase": {
         "Height": 14,
-        "Width": 14,
+        "Width": 20,
         "Filter": false
       },
       "WZWallet": {
-        "Height": 4,
-        "Width": 4,
+        "Height": 5,
+        "Width": 5,
         "Filter": false
       },
       "SimpleWallet": {
@@ -844,12 +844,12 @@
       },
       "ArmorPlateCase": {
         "Height": 15,
-        "Width": 15,
+        "Width": 20,
         "Filter": false
       },
       "KeysCase": {
-        "Height": 7,
-        "Width": 10,
+        "Height": 15,
+        "Width": 15,
         "Filter": false
       }
     },
